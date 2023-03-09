@@ -1,0 +1,8 @@
+{
+  "solution": {
+    "path": "..\\..\\..\\source\\repos\\CRUD_mvc\\CRUD_mvc.sln",
+    "projects": [
+      "CRUD_mvc\\CRUD_mvc.csproj"
+    ]
+  }
+}
